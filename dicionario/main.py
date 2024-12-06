@@ -1,7 +1,7 @@
 pessoa = {
     "nome": "Gabriel",
     "idade": 19,
-    "peso": 87,
+    "peso": 85.30
 }
 
 print(pessoa['nome'])
